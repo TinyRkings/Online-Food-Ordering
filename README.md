@@ -1,5 +1,7 @@
 # Online-Food-Ordering
 A complete program for purchasers to purchase food online  
+***
+***
 ##features  
 For buyers  
 1. it includes the function of register and login  
@@ -10,7 +12,7 @@ For buyers
 For sellers  
 1. it includes the function of putting the food  
 2. it includes the function of publishing the information  
-##help  
+###help  
 In my program, it includes foreground and background  
 You need to modify system/system.inc.php and admin/system/system.inc.php about the configuration of the database  
-If you can any problem, you can email to tinylouss@gmail.com  
+If you can any problem, you can email to <tinylouss@gmail.com>  
